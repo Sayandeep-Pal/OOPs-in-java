@@ -20,6 +20,6 @@ class OddEvenClassifire{
         Scanner ScannerObj = new Scanner(System.in);
         System.out.println("Enter a number : ");
         int num = ScannerObj.nextInt();
-        System.err.println(obj.Display(num));
+        System.out.println(obj.Display(num));
     }
 }
