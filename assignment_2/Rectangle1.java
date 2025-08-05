@@ -24,7 +24,7 @@ class Rectangle{
       return this.area() == r.area();
     }
 }
-public class ConstructerDemo_two {
+public class Rectangle1 {
     public static void main(String[] args) {
         double l,w;
         double l1,w1;

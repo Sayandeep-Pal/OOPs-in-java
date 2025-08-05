@@ -1,4 +1,3 @@
-import java.util.*;
 class Constructor{
     int age;
     String name;
@@ -19,7 +18,7 @@ class Constructor{
 
 
 }
-public class ConsturctorDemo {
+public class Copy_constructor_example {
     public static void main(String[] args) {
         Constructor myobj = new Constructor(20,"Rudra");
         Constructor myobj1 = new Constructor(myobj);
