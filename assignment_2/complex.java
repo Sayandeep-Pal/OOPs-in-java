@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class Complex1 {
-    private double  r;
+    private double r;
     private double im;
 
     public Complex1() {
@@ -34,7 +34,7 @@ public class complex{
     {
         double r,im;
         double r2,im2;
-        Scanner sc=new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.print("enter the real part of the complex number one : ");
         r=sc.nextDouble();
         System.out.print("enter the imaginary part of the complex number one : ");

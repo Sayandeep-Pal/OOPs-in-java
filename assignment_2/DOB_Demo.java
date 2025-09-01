@@ -67,7 +67,7 @@ public class DOB_Demo {
         
         // Calculate and display age difference
         DOB ageDiff = p1.findAgeDiff(p2);
-        System.out.println("\nAge Difference between " + p1.name + " and " + p2.name + "and " + p3.name + "and" + p4.name +":");
+        System.out.println("\nAge Difference between " + p1.name + "and" + p2.name + "and" + p3.name + "and" + p4.name + ":");
         ageDiff.show();
     }
 }
